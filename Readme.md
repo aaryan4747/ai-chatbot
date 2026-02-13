@@ -14,4 +14,8 @@ This project is a simple AI chatbot built using Python and Machine Learning.
 
  Installation
 
-1. Install dependencies:
+ Install dependencies
+ pip install -r requirements.txt
+ Train the model:
+python model.py
+run the chatbot:
